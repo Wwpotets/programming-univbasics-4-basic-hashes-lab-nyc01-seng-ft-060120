@@ -4,7 +4,7 @@ end
 
 def my_hash
   start_hash = {
-    corey: => "foot"
+    :corey => "foot"
   }
 end
 
