@@ -4,19 +4,19 @@ end
 
 def my_hash
   start_hash = {
-    corey: "foot"
+    corey: => "foot"
   }
 end
 
 def pioneer
   pioneer = {
-    :name "Grace Hopper"
+    :name => "Grace Hopper"
   }
 end
 
 
 def id_hash_generator(number)
   id_generator = {
-    :id number
+    :id => number
   }
 end
